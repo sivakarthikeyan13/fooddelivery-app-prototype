@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">foodiction</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="mobile_number">Mobile Number(10 digits)</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="forgot_password"><u>forgot password?</u></string>
+    <string name="new_register"><u>Dont have a account? register</u></string>
+    <string name="register">register</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="first_time_password">password(min. 4 characters)</string>
+    <string name="prompt_forgot_password">Enter your registered mobile number and email below:</string>
+    <string name="name">name(min. 3 characters)</string>
+    <string name="delivery_address">delivery address</string>
+    <string name="next">next</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="home_second">Home Second</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favourite_restaurants">Favourite Restaurants</string>
+    <string name="faqs">FAQs</string>
+    <string name="log_out">Log out</string>
+    <string name="enter_otp">Enter the received OTP below</string>
+    <string name="reset_password_new">New Password(min. 4 characters)</string>
+    <string name="submit">Submit</string>
+    <string name="order_history">Order History</string>
+    <string name="answer_1">Delivery fee varies from city to city and is applicable if order value is below a certain amount. Additionally, certain restaurants might have fixed delivery fees. Delivery fee (if any) is specified on the \'Review Order\' page.</string>
+    <string name="question_1">Do you charge for delivery?</string>
+    <string name="question_2">Is there a minimum order value?</string>
+    <string name="answer_2">We have no minimum order value and you can order for any amount.</string>
+    <string name="question_3">How long do you take to deliver?</string>
+    <string name="answer_3">Standard delivery times vary by the location selected and prevailing conditions. Once you select your location, an estimated delivery time is mentioned for each restaurant.</string>
+    <string name="question_4">What are your delivery hours?</string>
+    <string name="answer_4">Our delivery hours vary for different locations and depends on availability of supply from restaurant partners.</string>
+    <string name="question_5">Can I order in advance?</string>
+    <string name="answer_5">We currently do not support this functionality. All our orders are placed and executed on-demand.</string>
+    <string name="question_6">Did not receive OTP?</string>
+    <string name="answer_6">Please check if your app is due for an update.</string>
+    <string name="question_7">Unable to view the details in my profile</string>
+
+    <string name="profile_file_name">Profile Preferences</string>
+</resources>
